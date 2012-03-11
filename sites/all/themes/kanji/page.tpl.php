@@ -135,7 +135,7 @@
   </div><!-- /container -->
   
   <div id="footer">
-    <div class="footer-text">Theme designed by <a href="http://www.carettedonny.be" title="Donny Carette">Donny Carette</a>
+	  <div class="footer-text">Email: <a href="walnut.net@gmail.com" title="walnut.net@gmail.com">walnut.net@gmail.com</a>
       <?php if($page['footer_message']): ?>
         | <?php print render($page['footer_message']); ?>
       <?php endif; ?>
